@@ -1,3 +1,7 @@
+# Installation:
+
+> pip3 install -r requirements.txt
+
 # Version 2.0 USAGE:
 
 > 1. Run the script ( py AntiToxicCommunity.py ) 
