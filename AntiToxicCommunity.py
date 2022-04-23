@@ -5,7 +5,7 @@ from time import sleep
 
 TriggerEventKeyBind = Key.delete
 AllCommand = "/all"
-MessageBeforeMute = "I'm using AntiToxicCommunity and it helps me to stay away from toxic people like you :)"
+MessageBeforeMute = "I'm using AntiToxicCommunity V1 and it helps me to stay away from toxic people like you :)"
 muteAllCommand = '/mute all'
 
 def show(key):
